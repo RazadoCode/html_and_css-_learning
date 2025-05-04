@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Dosis", sans-serif;
+    font-weight: 800;
+}
+
+
+p{
+    padding: 20px;
+    margin: 30px 10px;
+    background-color: bisque;
+    color: black;
+    line-height: 1.4;
+    border-radius: 10px;
+}
+
+
+p:nth-child(3){
+    background-color: brown;
+    color: white;
+}
