@@ -1,0 +1,21 @@
+
+
+img{
+    margin: 20px;
+    border-radius: 20px;
+   
+}
+
+table{
+    width: 80vw;
+    margin: 20px auto;
+    text-align: left;
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+tr{
+    padding: 10px 20px;
+    background-color: bisque;
+}
+

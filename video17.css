@@ -1,0 +1,58 @@
+div{
+    background-color: red;
+    
+}
+
+
+
+/* child selectors */
+/* div > p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    color: white;
+} */
+
+/* descendent selectors */
+div p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    color: white;
+}
+
+li:first-child{
+    color: red;
+}
+
+li:hover{
+    color: white;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: green;
+}
+
+a:active{
+    background-color: blueviolet;
+}
+
+.second-list{
+    background-color: aqua;
+}
+
+#id{
+   background-color: brown;
+   color: white;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   padding: 10px;
+   border-radius: 10px;
+}
