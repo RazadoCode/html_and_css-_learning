@@ -1,0 +1,29 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
+
+
+h1{
+    color: blue;
+}
+
+.class2{
+    color: coral;
+}
+.textclass{
+    color: greenyellow !important;
+}
+
+#textid{
+    color: deeppink;
+}
+
+[data = a]{
+    background-color: yellowgreen;
+}
+
+h2[harry]{
+    background-color: black;
+    color: white;
+}
